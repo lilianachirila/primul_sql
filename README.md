@@ -1,4 +1,4 @@
 # primul_sql
-select *
+select nr
 from elevi
 where scoala='Borca'
