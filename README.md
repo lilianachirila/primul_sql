@@ -1,4 +1,4 @@
 # primul_sql
-select nr
+select count(nume)
 from elevi
 where scoala='Borca'
